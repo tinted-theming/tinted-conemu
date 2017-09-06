@@ -4,7 +4,7 @@
     Template: Chris Kempson, Scheme: Bram de Haan (http://atelierbramdehaan.nl)
     semanticClass: theme.base16.atelier-heath
 -->
-<key name="Palette1" modified="2017-09-06 16:43:18" build="161206">
+<key name="Palette1">
     <value name="Name" type="string" data="Base16 Atelier Heath"/>
     <value name="ExtendColors" type="hex" data="00"/>
     <value name="ExtendColorIdx" type="hex" data="0e"/>

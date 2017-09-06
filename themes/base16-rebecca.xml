@@ -4,7 +4,7 @@
     Template: Chris Kempson, Scheme: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
     semanticClass: theme.base16.rebecca
 -->
-<key name="Palette1" modified="2017-09-06 16:43:18" build="161206">
+<key name="Palette1">
     <value name="Name" type="string" data="Base16 Rebecca"/>
     <value name="ExtendColors" type="hex" data="00"/>
     <value name="ExtendColorIdx" type="hex" data="0e"/>

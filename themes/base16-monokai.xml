@@ -4,7 +4,7 @@
     Template: Chris Kempson, Scheme: Wimer Hazenberg (http://www.monokai.nl)
     semanticClass: theme.base16.monokai
 -->
-<key name="Palette1" modified="2017-09-06 16:43:18" build="161206">
+<key name="Palette1">
     <value name="Name" type="string" data="Base16 Monokai"/>
     <value name="ExtendColors" type="hex" data="00"/>
     <value name="ExtendColorIdx" type="hex" data="0e"/>
