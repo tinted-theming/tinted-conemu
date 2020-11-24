@@ -20,8 +20,11 @@ param (
 )
 
 try {
-    [Xml]$config = Get-Content -Path $ConfigPath
-    $config.Save([System.IO.Path]::ChangeExtension($ConfigPath, ".backup.xml"))
+    [Xml]$config = Get-Content -Path $ConfigPath -Encoding UTF8
+    $fw = New-Object System.IO.StreamWriter([System.IO.Path]::ChangeExtension($ConfigPath, ".backup.xml"))
+    $fw.NewLine = "`n"
+    $config.Save($fw)
+    $fw.Close()
 
     $vanilla = $config.key.key.key | Where-Object { $_.name -eq ".Vanilla" }
     $colors = $vanilla.key | Where-Object { $_.name -eq "Colors" }
@@ -72,7 +75,10 @@ try {
         $colors.key.name = "Palette1"
     }
 
-    $config.Save($ConfigPath)
+    $fw = New-Object System.IO.StreamWriter($ConfigPath)
+    $fw.NewLine = "`n"
+    $config.Save($fw)
+    $fw.Close()
 } catch {
     Write-Error -Message $_
 }
