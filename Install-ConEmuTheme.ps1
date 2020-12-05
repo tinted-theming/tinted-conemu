@@ -20,7 +20,7 @@ param (
 )
 
 try {
-    [Xml]$config = Get-Content -Path $ConfigPath
+    [Xml]$config = Get-Content -Path $ConfigPath -Encoding UTF8
     $config.Save([System.IO.Path]::ChangeExtension($ConfigPath, ".backup.xml"))
 
     $vanilla = $config.key.key.key | Where-Object { $_.name -eq ".Vanilla" }
