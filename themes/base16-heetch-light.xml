@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Base16 Heetch Light
+    Template: Chris Kempson, Scheme: Geoffrey Teale (tealeg@gmail.com)
+    semanticClass: theme.base16.heetch-light
+-->
+<key name="Palette1">
+    <value name="Name" type="string" data="Base16 Heetch Light"/>
+    <value name="ExtendColors" type="hex" data="00"/>
+    <value name="ExtendColorIdx" type="hex" data="0e"/>
+    <value name="TextColorIdx" type="hex" data="10"/>
+    <value name="BackColorIdx" type="hex" data="10"/>
+    <value name="PopTextColorIdx" type="hex" data="10"/>
+    <value name="PopBackColorIdx" type="hex" data="10"/>    
+    <value name="ColorTable00" type="dword" data="00fffffe"/>
+    <value name="ColorTable01" type="dword" data="00f5f947"/>
+    <value name="ColorTable02" type="dword" data="005900f8"/>
+    <value name="ColorTable03" type="dword" data="007836c3"/>
+    <value name="ColorTable04" type="dword" data="00c5b6bd"/>
+    <value name="ColorTable05" type="dword" data="005201bd"/>
+    <value name="ColorTable06" type="dword" data="00b6a25b"/>
+    <value name="ColorTable07" type="dword" data="00e5d6dd"/>
+    <value name="ColorTable08" type="dword" data="00a8929c"/>
+    <value name="ColorTable09" type="dword" data="00f5f947"/>
+    <value name="ColorTable10" type="dword" data="005900f8"/>
+    <value name="ColorTable11" type="dword" data="007836c3"/>
+    <value name="ColorTable12" type="dword" data="00d5d927"/>
+    <value name="ColorTable13" type="dword" data="00e2dade"/>
+    <value name="ColorTable14" type="dword" data="00b6a25b"/>
+    <value name="ColorTable15" type="dword" data="00340119"/>
+    <value name="ColorTable16" type="dword" data="00fffffe"/>
+    <value name="ColorTable17" type="dword" data="00f5f947"/>
+    <value name="ColorTable18" type="dword" data="005900f8"/>
+    <value name="ColorTable19" type="dword" data="007836c3"/>
+    <value name="ColorTable20" type="dword" data="00c5b6bd"/>
+    <value name="ColorTable21" type="dword" data="005201bd"/>
+    <value name="ColorTable22" type="dword" data="00b6a25b"/>
+    <value name="ColorTable23" type="dword" data="00e5d6dd"/>
+    <value name="ColorTable24" type="dword" data="00a8929c"/>
+    <value name="ColorTable25" type="dword" data="00f5f947"/>
+    <value name="ColorTable26" type="dword" data="005900f8"/>
+    <value name="ColorTable27" type="dword" data="007836c3"/>
+    <value name="ColorTable28" type="dword" data="00d5d927"/>
+    <value name="ColorTable29" type="dword" data="00e2dade"/>
+    <value name="ColorTable30" type="dword" data="00b6a25b"/>
+    <value name="ColorTable31" type="dword" data="00340119"/>
+</key>

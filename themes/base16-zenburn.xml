@@ -12,7 +12,7 @@
     <value name="BackColorIdx" type="hex" data="10"/>
     <value name="PopTextColorIdx" type="hex" data="10"/>
     <value name="PopBackColorIdx" type="hex" data="10"/>    
-    <value name="ColorTable00" type="dword" data="003f3f3f"/>
+    <value name="ColorTable00" type="dword" data="00383838"/>
     <value name="ColorTable01" type="dword" data="00bbb87c"/>
     <value name="ColorTable02" type="dword" data="005f7f5f"/>
     <value name="ColorTable03" type="dword" data="00e3e093"/>
@@ -20,7 +20,7 @@
     <value name="ColorTable05" type="dword" data="00c38cdc"/>
     <value name="ColorTable06" type="dword" data="009fcfe0"/>
     <value name="ColorTable07" type="dword" data="00808080"/>
-    <value name="ColorTable08" type="dword" data="004f4f4f"/>
+    <value name="ColorTable08" type="dword" data="006f6f6f"/>
     <value name="ColorTable09" type="dword" data="00bbb87c"/>
     <value name="ColorTable10" type="dword" data="005f7f5f"/>
     <value name="ColorTable11" type="dword" data="00e3e093"/>
@@ -28,7 +28,7 @@
     <value name="ColorTable13" type="dword" data="00000000"/>
     <value name="ColorTable14" type="dword" data="009fcfe0"/>
     <value name="ColorTable15" type="dword" data="00ffffff"/>
-    <value name="ColorTable16" type="dword" data="003f3f3f"/>
+    <value name="ColorTable16" type="dword" data="00383838"/>
     <value name="ColorTable17" type="dword" data="00bbb87c"/>
     <value name="ColorTable18" type="dword" data="005f7f5f"/>
     <value name="ColorTable19" type="dword" data="00e3e093"/>
@@ -36,7 +36,7 @@
     <value name="ColorTable21" type="dword" data="00c38cdc"/>
     <value name="ColorTable22" type="dword" data="009fcfe0"/>
     <value name="ColorTable23" type="dword" data="00808080"/>
-    <value name="ColorTable24" type="dword" data="004f4f4f"/>
+    <value name="ColorTable24" type="dword" data="006f6f6f"/>
     <value name="ColorTable25" type="dword" data="00bbb87c"/>
     <value name="ColorTable26" type="dword" data="005f7f5f"/>
     <value name="ColorTable27" type="dword" data="00e3e093"/>

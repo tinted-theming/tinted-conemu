@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Base16 Stella
+    Template: Chris Kempson, Scheme: Shrimpram
+    semanticClass: theme.base16.stella
+-->
+<key name="Palette1">
+    <value name="Name" type="string" data="Base16 Stella"/>
+    <value name="ExtendColors" type="hex" data="00"/>
+    <value name="ExtendColorIdx" type="hex" data="0e"/>
+    <value name="TextColorIdx" type="hex" data="10"/>
+    <value name="BackColorIdx" type="hex" data="10"/>
+    <value name="PopTextColorIdx" type="hex" data="10"/>
+    <value name="PopBackColorIdx" type="hex" data="10"/>    
+    <value name="ColorTable00" type="dword" data="003c212b"/>
+    <value name="ColorTable01" type="dword" data="00d4aaa5"/>
+    <value name="ColorTable02" type="dword" data="009bc7ac"/>
+    <value name="ColorTable03" type="dword" data="00bfc79b"/>
+    <value name="ColorTable04" type="dword" data="00c66588"/>
+    <value name="ColorTable05" type="dword" data="00ff94c5"/>
+    <value name="ColorTable06" type="dword" data="0091c6c7"/>
+    <value name="ColorTable07" type="dword" data="0092717f"/>
+    <value name="ColorTable08" type="dword" data="00785965"/>
+    <value name="ColorTable09" type="dword" data="00d4aaa5"/>
+    <value name="ColorTable10" type="dword" data="009bc7ac"/>
+    <value name="ColorTable11" type="dword" data="00bfc79b"/>
+    <value name="ColorTable12" type="dword" data="008799c7"/>
+    <value name="ColorTable13" type="dword" data="0087abc7"/>
+    <value name="ColorTable14" type="dword" data="0091c6c7"/>
+    <value name="ColorTable15" type="dword" data="00ffdceb"/>
+    <value name="ColorTable16" type="dword" data="003c212b"/>
+    <value name="ColorTable17" type="dword" data="00d4aaa5"/>
+    <value name="ColorTable18" type="dword" data="009bc7ac"/>
+    <value name="ColorTable19" type="dword" data="00bfc79b"/>
+    <value name="ColorTable20" type="dword" data="00c66588"/>
+    <value name="ColorTable21" type="dword" data="00ff94c5"/>
+    <value name="ColorTable22" type="dword" data="0091c6c7"/>
+    <value name="ColorTable23" type="dword" data="0092717f"/>
+    <value name="ColorTable24" type="dword" data="00785965"/>
+    <value name="ColorTable25" type="dword" data="00d4aaa5"/>
+    <value name="ColorTable26" type="dword" data="009bc7ac"/>
+    <value name="ColorTable27" type="dword" data="00bfc79b"/>
+    <value name="ColorTable28" type="dword" data="008799c7"/>
+    <value name="ColorTable29" type="dword" data="0087abc7"/>
+    <value name="ColorTable30" type="dword" data="0091c6c7"/>
+    <value name="ColorTable31" type="dword" data="00ffdceb"/>
+</key>

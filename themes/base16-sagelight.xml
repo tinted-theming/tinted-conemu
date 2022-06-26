@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Base16 Sagelight
+    Template: Chris Kempson, Scheme: Carter Veldhuizen
+    semanticClass: theme.base16.sagelight
+-->
+<key name="Palette1">
+    <value name="Name" type="string" data="Base16 Sagelight"/>
+    <value name="ExtendColors" type="hex" data="00"/>
+    <value name="ExtendColorIdx" type="hex" data="0e"/>
+    <value name="TextColorIdx" type="hex" data="10"/>
+    <value name="BackColorIdx" type="hex" data="10"/>
+    <value name="PopTextColorIdx" type="hex" data="10"/>
+    <value name="PopBackColorIdx" type="hex" data="10"/>    
+    <value name="ColorTable00" type="dword" data="00f8f8f8"/>
+    <value name="ColorTable01" type="dword" data="00d2a7a0"/>
+    <value name="ColorTable02" type="dword" data="00c8d2a0"/>
+    <value name="ColorTable03" type="dword" data="00f5d6a2"/>
+    <value name="ColorTable04" type="dword" data="0061aaff"/>
+    <value name="ColorTable05" type="dword" data="00d2a0c8"/>
+    <value name="ColorTable06" type="dword" data="0061dcff"/>
+    <value name="ColorTable07" type="dword" data="00585858"/>
+    <value name="ColorTable08" type="dword" data="00b8b8b8"/>
+    <value name="ColorTable09" type="dword" data="00d2a7a0"/>
+    <value name="ColorTable10" type="dword" data="00c8d2a0"/>
+    <value name="ColorTable11" type="dword" data="00f5d6a2"/>
+    <value name="ColorTable12" type="dword" data="008084fa"/>
+    <value name="ColorTable13" type="dword" data="00a0b2d2"/>
+    <value name="ColorTable14" type="dword" data="0061dcff"/>
+    <value name="ColorTable15" type="dword" data="00181818"/>
+    <value name="ColorTable16" type="dword" data="00f8f8f8"/>
+    <value name="ColorTable17" type="dword" data="00d2a7a0"/>
+    <value name="ColorTable18" type="dword" data="00c8d2a0"/>
+    <value name="ColorTable19" type="dword" data="00f5d6a2"/>
+    <value name="ColorTable20" type="dword" data="0061aaff"/>
+    <value name="ColorTable21" type="dword" data="00d2a0c8"/>
+    <value name="ColorTable22" type="dword" data="0061dcff"/>
+    <value name="ColorTable23" type="dword" data="00585858"/>
+    <value name="ColorTable24" type="dword" data="00b8b8b8"/>
+    <value name="ColorTable25" type="dword" data="00d2a7a0"/>
+    <value name="ColorTable26" type="dword" data="00c8d2a0"/>
+    <value name="ColorTable27" type="dword" data="00f5d6a2"/>
+    <value name="ColorTable28" type="dword" data="008084fa"/>
+    <value name="ColorTable29" type="dword" data="00a0b2d2"/>
+    <value name="ColorTable30" type="dword" data="0061dcff"/>
+    <value name="ColorTable31" type="dword" data="00181818"/>
+</key>
