@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-    Base16 better-contrast
+    Base16 Blueish
     Template: Chris Kempson, Scheme: Ben Mayoras
     semanticClass: theme.base16.blueish
 -->
 <key name="Palette1">
-    <value name="Name" type="string" data="Base16 better-contrast"/>
+    <value name="Name" type="string" data="Base16 Blueish"/>
     <value name="ExtendColors" type="hex" data="00"/>
     <value name="ExtendColorIdx" type="hex" data="0e"/>
     <value name="TextColorIdx" type="hex" data="10"/>
