@@ -114,7 +114,7 @@ See the [Base16 repository][1] for more information.
 `Install-ConEmuTheme.ps1` and the installation instructions are based on
 https://github.com/joonro/ConEmu-Color-Themes
 
-[1]: https://github.com/base16-project/base16
+[1]: https://github.com/base16-project/home
 [2]: CONTRIBUTING.md
 [3]: ConEmu_Color_Options.png
 [4]: conemu-twilight.png
