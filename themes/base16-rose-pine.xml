@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     Base16 Rosé Pine
-    Scheme author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+    Scheme author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
     Template author: Tinted Theming (https://github.com/tinted-theming)
     semanticClass: theme.base16.rose-pine
 -->
@@ -14,35 +14,35 @@
     <value name="PopTextColorIdx" type="hex" data="10"/>
     <value name="PopBackColorIdx" type="hex" data="10"/>    
     <value name="ColorTable00" type="dword" data="00241719"/>
-    <value name="ColorTable01" type="dword" data="00d8cf9c"/>
-    <value name="ColorTable02" type="dword" data="00babceb"/>
-    <value name="ColorTable03" type="dword" data="008f7431"/>
-    <value name="ColorTable04" type="dword" data="00926feb"/>
-    <value name="ColorTable05" type="dword" data="00e7a7c4"/>
-    <value name="ColorTable06" type="dword" data="0077c1f6"/>
-    <value name="ColorTable07" type="dword" data="00866a6e"/>
-    <value name="ColorTable08" type="dword" data="00695155"/>
-    <value name="ColorTable09" type="dword" data="00d8cf9c"/>
-    <value name="ColorTable10" type="dword" data="00babceb"/>
-    <value name="ColorTable11" type="dword" data="008f7431"/>
-    <value name="ColorTable12" type="dword" data="00e7e1e2"/>
-    <value name="ColorTable13" type="dword" data="00e5e5e5"/>
-    <value name="ColorTable14" type="dword" data="0077c1f6"/>
-    <value name="ColorTable15" type="dword" data="00cec3c5"/>
+    <value name="ColorTable01" type="dword" data="00e7a7c4"/>
+    <value name="ColorTable02" type="dword" data="008f7431"/>
+    <value name="ColorTable03" type="dword" data="00d8cf9c"/>
+    <value name="ColorTable04" type="dword" data="0077c1f6"/>
+    <value name="ColorTable05" type="dword" data="0077c1f6"/>
+    <value name="ColorTable06" type="dword" data="00babceb"/>
+    <value name="ColorTable07" type="dword" data="00aa8c90"/>
+    <value name="ColorTable08" type="dword" data="00866a6e"/>
+    <value name="ColorTable09" type="dword" data="00e7a7c4"/>
+    <value name="ColorTable10" type="dword" data="008f7431"/>
+    <value name="ColorTable11" type="dword" data="00d8cf9c"/>
+    <value name="ColorTable12" type="dword" data="00926feb"/>
+    <value name="ColorTable13" type="dword" data="00674f52"/>
+    <value name="ColorTable14" type="dword" data="00babceb"/>
+    <value name="ColorTable15" type="dword" data="00674f52"/>
     <value name="ColorTable16" type="dword" data="00241719"/>
-    <value name="ColorTable17" type="dword" data="00d8cf9c"/>
-    <value name="ColorTable18" type="dword" data="00babceb"/>
-    <value name="ColorTable19" type="dword" data="008f7431"/>
-    <value name="ColorTable20" type="dword" data="00926feb"/>
-    <value name="ColorTable21" type="dword" data="00e7a7c4"/>
-    <value name="ColorTable22" type="dword" data="0077c1f6"/>
-    <value name="ColorTable23" type="dword" data="00866a6e"/>
-    <value name="ColorTable24" type="dword" data="00695155"/>
-    <value name="ColorTable25" type="dword" data="00d8cf9c"/>
-    <value name="ColorTable26" type="dword" data="00babceb"/>
-    <value name="ColorTable27" type="dword" data="008f7431"/>
-    <value name="ColorTable28" type="dword" data="00e7e1e2"/>
-    <value name="ColorTable29" type="dword" data="00e5e5e5"/>
-    <value name="ColorTable30" type="dword" data="0077c1f6"/>
-    <value name="ColorTable31" type="dword" data="00cec3c5"/>
+    <value name="ColorTable17" type="dword" data="00e7a7c4"/>
+    <value name="ColorTable18" type="dword" data="008f7431"/>
+    <value name="ColorTable19" type="dword" data="00d8cf9c"/>
+    <value name="ColorTable20" type="dword" data="0077c1f6"/>
+    <value name="ColorTable21" type="dword" data="0077c1f6"/>
+    <value name="ColorTable22" type="dword" data="00babceb"/>
+    <value name="ColorTable23" type="dword" data="00aa8c90"/>
+    <value name="ColorTable24" type="dword" data="00866a6e"/>
+    <value name="ColorTable25" type="dword" data="00e7a7c4"/>
+    <value name="ColorTable26" type="dword" data="008f7431"/>
+    <value name="ColorTable27" type="dword" data="00d8cf9c"/>
+    <value name="ColorTable28" type="dword" data="00926feb"/>
+    <value name="ColorTable29" type="dword" data="00674f52"/>
+    <value name="ColorTable30" type="dword" data="00babceb"/>
+    <value name="ColorTable31" type="dword" data="00674f52"/>
 </key>
