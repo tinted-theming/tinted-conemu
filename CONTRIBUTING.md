@@ -17,7 +17,7 @@ automatically.
 
 ### Usage for adding or editing a colorscheme
 
-1. Clone the base16-conemu
+1. Clone base16-conemu
 1. Clone [tinted-schemes]
 1. Install [tinted-builder-rust]
 1. Execute `tinted-builder-rust build base16-conemu` with 
