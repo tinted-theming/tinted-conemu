@@ -21,11 +21,11 @@ automatically.
 1. Clone [tinted-schemes]
 1. Install [tinted-builder-rust]
 1. Execute `tinted-builder-rust build base16-conemu` with 
-  - `--schemes-dir` arg - provide `/path/to/base16-scehemes`
+  - `--schemes-dir` arg - provide `/path/to/tinted-schemes`
 
 ```shell
 tinted-builder-rust build /path/to/base16-conemu \
-  --schemes-dir /path/to/base16-schemes
+  --schemes-dir /path/to/tinted-schemes
 ```
 
 If you have more questions about [tinted-builder-rust], have a look at
