@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Base16 Deep Oceanic Next
+    Scheme author: spearkkk (https://github.com/spearkkk/deep-oceanic-next)
+    Template author: Tinted Theming (https://github.com/tinted-theming)
+    semanticClass: theme.base16.deep-oceanic-next
+-->
+<key name="Palette1">
+    <value name="Name" type="string" data="Base16 Deep Oceanic Next"/>
+    <value name="ExtendColors" type="hex" data="00"/>
+    <value name="ExtendColorIdx" type="hex" data="0e"/>
+    <value name="TextColorIdx" type="hex" data="10"/>
+    <value name="BackColorIdx" type="hex" data="10"/>
+    <value name="PopTextColorIdx" type="hex" data="10"/>
+    <value name="PopBackColorIdx" type="hex" data="10"/>    
+    <value name="ColorTable00" type="dword" data="00463b00"/>
+    <value name="ColorTable01" type="dword" data="00e6823a"/>
+    <value name="ColorTable02" type="dword" data="007ab585"/>
+    <value name="ColorTable03" type="dword" data="00a6a64d"/>
+    <value name="ColorTable04" type="dword" data="004b6aff"/>
+    <value name="ColorTable05" type="dword" data="00e64d8c"/>
+    <value name="ColorTable06" type="dword" data="0066ccff"/>
+    <value name="ColorTable07" type="dword" data="00a39300"/>
+    <value name="ColorTable08" type="dword" data="008a7a00"/>
+    <value name="ColorTable09" type="dword" data="00e6823a"/>
+    <value name="ColorTable10" type="dword" data="007ab585"/>
+    <value name="ColorTable11" type="dword" data="00a6a64d"/>
+    <value name="ColorTable12" type="dword" data="004b45e6"/>
+    <value name="ColorTable13" type="dword" data="00a373e6"/>
+    <value name="ColorTable14" type="dword" data="0066ccff"/>
+    <value name="ColorTable15" type="dword" data="00f5f5f0"/>
+    <value name="ColorTable16" type="dword" data="00463b00"/>
+    <value name="ColorTable17" type="dword" data="00e6823a"/>
+    <value name="ColorTable18" type="dword" data="007ab585"/>
+    <value name="ColorTable19" type="dword" data="00a6a64d"/>
+    <value name="ColorTable20" type="dword" data="004b6aff"/>
+    <value name="ColorTable21" type="dword" data="00e64d8c"/>
+    <value name="ColorTable22" type="dword" data="0066ccff"/>
+    <value name="ColorTable23" type="dword" data="00a39300"/>
+    <value name="ColorTable24" type="dword" data="008a7a00"/>
+    <value name="ColorTable25" type="dword" data="00e6823a"/>
+    <value name="ColorTable26" type="dword" data="007ab585"/>
+    <value name="ColorTable27" type="dword" data="00a6a64d"/>
+    <value name="ColorTable28" type="dword" data="004b45e6"/>
+    <value name="ColorTable29" type="dword" data="00a373e6"/>
+    <value name="ColorTable30" type="dword" data="0066ccff"/>
+    <value name="ColorTable31" type="dword" data="00f5f5f0"/>
+</key>
