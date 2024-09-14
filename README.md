@@ -1,4 +1,7 @@
-# Base16 ConEmu
+# Tinted ConEmu
+
+Formerly [base16-conemu], however since the repository now supports the
+[base16] and [base24] scheme systems, the repo has been renamed.
 
 # Installation
 
@@ -6,9 +9,9 @@ There are two methods.
 
 ## Use Install-ConEmuTheme.ps1 PowerShell script. (Recommended)
 
-- First, the script will always create a backup of your config file as
-  `ConEmu.backup.xml` prior to doing anything else. It's got two
-  operation modes:
+First, the script will always create a backup of your config file as
+`ConEmu.backup.xml` prior to doing anything else. It's got two operation
+modes:
 
 ### To add a theme to your config file:
 
@@ -16,8 +19,8 @@ There are two methods.
 .\Install-ConEmuTheme.ps1 [-ConfigPath Path] -Operation Add -ThemePathOrName .\themes\base16-twilight.xml
 ```
 
-Then restart ConEmu and activate the color theme in ConEmu Settings ->
-Features -> Colors using the Schemes drop-down.
+Then restart ConEmu and activate the color theme in `ConEmu Settings` ->
+`Features` -> `Colors` using the `Schemes` drop-down.
 
 ### To remove a theme from your config file:
 
@@ -88,7 +91,7 @@ Features -> Colors using the Schemes drop-down.
 Also, make sure that all the color options set to `Auto` to get correct
 highlighting:
 
-![color options][3]
+![color options]
 
 ### Color mapping
 
@@ -98,23 +101,25 @@ To see the current colors, run this powershell snippet:
 [enum]::GetValues([System.ConsoleColor]) | Foreach-Object {Write-Host $_ -ForegroundColor $_}
 ```
 
-Here's a screenshot for Base16 Twilight:
+Here's a screenshot for base16-twilight:
 
-![Base16 Twilight in ConEmu][4]
+![Base16 Twilight in ConEmu]
 
 ## Contributing
 
-See [`CONTRIBUTING.md`][2], which contains building and contributing
+See [CONTRIBUTING.md], which contains building and contributing
 instructions.
 
-See the [Base16 repository][1] for more information.  
+See the [Tinted Theming repository] for more information.  
 
 ### Attribution
 
 `Install-ConEmuTheme.ps1` and the installation instructions are based on
 https://github.com/joonro/ConEmu-Color-Themes
 
-[1]: https://github.com/tinted-theming/home
-[2]: CONTRIBUTING.md
-[3]: ConEmu_Color_Options.png
-[4]: conemu-twilight.png
+[base16]: https://github.com/tinted-theming/home
+[base24]: https://github.com/tinted-theming/base24
+[CONTRIBUTING.md]: CONTRIBUTING.md
+[color options]: ConEmu_Color_Options.png
+[Base16 Twilight in ConEmu]: conemu-twilight.png
+[Tinted Theming repository]: https://github.com/tinted-theming/home
