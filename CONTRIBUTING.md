@@ -13,18 +13,18 @@ automatically.
 ### Usage for template editing
 
 1. Install [tinted-builder-rust]
-1. `tinted-builder-rust build path/to/base16-conemu`
+1. `tinted-builder-rust build path/to/tinted-conemu`
 
 ### Usage for adding or editing a colorscheme
 
-1. Clone base16-conemu
+1. Clone tinted-conemu
 1. Clone [tinted-schemes]
 1. Install [tinted-builder-rust]
-1. Execute `tinted-builder-rust build base16-conemu` with 
+1. Execute `tinted-builder-rust build tinted-conemu` with
   - `--schemes-dir` arg - provide `/path/to/tinted-schemes`
 
-```shell
-tinted-builder-rust build /path/to/base16-conemu \
+```sh
+tinted-builder-rust build /path/to/tinted-conemu \
   --schemes-dir /path/to/tinted-schemes
 ```
 
