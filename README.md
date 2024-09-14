@@ -25,7 +25,7 @@ Then restart ConEmu and activate the color theme in `ConEmu Settings` ->
 ### To remove a theme from your config file:
 
 ```ps1
-.\Install-ConEmuTheme.ps1 [-ConfigPath Path] -Operation Remove -ThemePathOrName "Base16 Twilight"
+.\Install-ConEmuTheme.ps1 [-ConfigPath Path] -Operation Remove -ThemePathOrName "base16-twilight"
 ```
 
 - Note that `-ConfigPath` argument is optional if your `ConEmu.xml` is
@@ -101,10 +101,6 @@ To see the current colors, run this powershell snippet:
 [enum]::GetValues([System.ConsoleColor]) | Foreach-Object {Write-Host $_ -ForegroundColor $_}
 ```
 
-Here's a screenshot for base16-twilight:
-
-![Base16 Twilight in ConEmu]
-
 ## Contributing
 
 See [CONTRIBUTING.md], which contains building and contributing
@@ -121,5 +117,4 @@ https://github.com/joonro/ConEmu-Color-Themes
 [base24]: https://github.com/tinted-theming/base24
 [CONTRIBUTING.md]: CONTRIBUTING.md
 [color options]: ConEmu_Color_Options.png
-[Base16 Twilight in ConEmu]: conemu-twilight.png
 [Tinted Theming repository]: https://github.com/tinted-theming/home
