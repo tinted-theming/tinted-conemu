@@ -113,6 +113,7 @@ See the [Tinted Theming repository] for more information.
 `Install-ConEmuTheme.ps1` and the installation instructions are based on
 https://github.com/joonro/ConEmu-Color-Themes
 
+[base16-conemu]: https://github.com/tinted-theming/base16-conemu
 [base16]: https://github.com/tinted-theming/home
 [base24]: https://github.com/tinted-theming/base24
 [CONTRIBUTING.md]: CONTRIBUTING.md
