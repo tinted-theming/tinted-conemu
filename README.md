@@ -1,5 +1,11 @@
 # Tinted ConEmu
 
+**Deprecated**: tinted-conemu and all the other Tinted Theming
+terminal template repositories have moved to a single [Tinted
+Terminal](https://github.com/tinted-theming/tinted-terminal) repository.
+
+---
+
 Formerly [base16-conemu], however since the repository now supports the
 [base16] and [base24] scheme systems, the repo has been renamed.
 
